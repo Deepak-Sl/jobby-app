@@ -1,0 +1,18 @@
+.job-item-details-card {
+  background-color: #475569;
+  border-radius: 10px;
+  padding: 30px;
+  font-family: Roboto;
+  margin-bottom: 20px;
+}
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  color: #ffffff;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

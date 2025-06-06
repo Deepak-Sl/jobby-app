@@ -1,0 +1,32 @@
+.header {
+  background-color: #202020;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+.header-logo {
+  height: 40px;
+}
+.link-container {
+  display: flex;
+  list-style-type: none;
+  font-family: Roboto;
+}
+.link-item {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+  margin-right: 9px;
+  font-size: 14px;
+}
+.logout-button {
+  color: #ffffff;
+  background-color: #6366f1;
+  border: 0px;
+  border-radius: 6px;
+  padding: 10px;
+  font-family: Roboto;
+  font-size: 12px;
+}
