@@ -64,3 +64,9 @@
 .input-label {
   color: #ffffff;
 }
+.sidebar-sticky {
+  position: sticky;
+  top: 70px;
+  align-self: flex-start;
+}
+
